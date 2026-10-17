@@ -1,26 +1,41 @@
 # Hi, I'm KeeganKei 👋
 
-I build practical software tools and explore desktop applications,
-embedded systems, and AI-assisted development.
+I build practical tools that make everyday tasks easier.
+My interests include desktop software, embedded systems,
+and turning small ideas into usable applications.
 
-## What I work on
+## Featured project
 
-- **Practical tools** — utilities that simplify recurring tasks.
-- **Desktop applications** — software for everyday and technical workflows.
-- **Embedded systems** — device communication, data acquisition, and debugging.
-- **Experiments** — exploring new ideas through small, focused projects.
+### [KeeStashDock](https://github.com/Keegankei/KeeStashDock)
 
-## Featured projects
+A portable Windows dock for snippets, screenshots, OCR,
+and on-demand translation.
 
-Explore the pinned repositories below to see my featured projects.
+- Capture and organize text and images.
+- Extract text from screenshots and translate selections.
+- Choose between Standard and Spatial panel layouts.
+- Install optional OCR and offline translation components in the app.
 
-## Development approach
+Built with C#, .NET, WPF, and SQLite.
 
-I use AI-assisted workflows to turn ideas into practical tools,
-with a focus on usability, clear documentation, and iterative improvement.
+[Download](https://github.com/Keegankei/KeeStashDock/releases/latest)
+· [Source](https://github.com/Keegankei/KeeStashDock)
+· [Documentation](https://github.com/Keegankei/KeeStashDock#readme)
+
+## What I explore
+
+- Desktop tools and interaction design.
+- Embedded systems, device communication, and data acquisition.
+- Small experiments that solve practical problems.
+
+## How I build
+
+I use AI-assisted development to explore ideas and build tools,
+then refine them through testing, documentation, and user feedback.
 
 ## Contact
 
-- Email: [2651570569@qq.com](mailto:2651570569@qq.com)
-- For project questions or bug reports, please open an issue
-  in the relevant repository.
+[2651570569@qq.com](mailto:2651570569@qq.com)
+
+For project questions, feature requests, or bug reports,
+please open an issue in the relevant repository.
