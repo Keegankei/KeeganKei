@@ -4,7 +4,7 @@ I build practical tools that make everyday tasks easier.
 My interests include desktop software, embedded systems,
 and turning small ideas into usable applications.
 
-## Featured project
+## Featured projects
 
 ### [KeeStashDock](https://github.com/Keegankei/KeeStashDock)
 
@@ -21,6 +21,23 @@ Built with C#, .NET, WPF, and SQLite.
 [Download](https://github.com/Keegankei/KeeStashDock/releases/latest)
 · [Source](https://github.com/Keegankei/KeeStashDock)
 · [Documentation](https://github.com/Keegankei/KeeStashDock#readme)
+
+### [EasyEDA Schematic Style](https://github.com/Keegankei/easyeda-schematic-style)
+
+A reusable Codex skill for organizing and reviewing
+EasyEDA Professional schematics.
+
+- Organize functional blocks, local wiring, labels, and interface summaries.
+- Follow a reference sheet or start with project defaults.
+- Keep edits scoped and compare electrical connections.
+- Get setup guidance in English or Simplified Chinese.
+
+An instruction-only skill package, licensed under MIT.
+
+[Download v1.0.0](https://github.com/Keegankei/easyeda-schematic-style/releases/tag/v1.0.0)
+· [Source](https://github.com/Keegankei/easyeda-schematic-style)
+· [English guide](https://github.com/Keegankei/easyeda-schematic-style/blob/main/README.md)
+· [简体中文](https://github.com/Keegankei/easyeda-schematic-style/blob/main/README.zh-CN.md)
 
 ## What I explore
 
