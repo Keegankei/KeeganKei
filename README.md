@@ -52,12 +52,8 @@
 
 **Format** `Instruction-only skill` · **License** `MIT`
 
-**[Download ZIP](https://github.com/Keegankei/easyeda-schematic-style/releases/download/v1.0.0/easyeda-schematic-style-v1.0.0.zip)**
-· [Release v1.0.0](https://github.com/Keegankei/easyeda-schematic-style/releases/tag/v1.0.0)
+**[Download](https://github.com/Keegankei/easyeda-schematic-style/releases/latest)**
 · [Source](https://github.com/Keegankei/easyeda-schematic-style)
-
-[English guide](https://github.com/Keegankei/easyeda-schematic-style/blob/main/README.md)
-· [简体中文](https://github.com/Keegankei/easyeda-schematic-style/blob/main/README.zh-CN.md)
 
 <a id="explore"></a>
 
