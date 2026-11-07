@@ -54,6 +54,7 @@
 
 **[Download](https://github.com/Keegankei/easyeda-schematic-style/releases/latest)**
 · [Source](https://github.com/Keegankei/easyeda-schematic-style)
+· [Documentation](https://github.com/Keegankei/easyeda-schematic-style#readme)
 
 <a id="explore"></a>
 
